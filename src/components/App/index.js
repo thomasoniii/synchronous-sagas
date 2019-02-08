@@ -32,7 +32,7 @@ class App extends Component {
         <button onClick = { this.handleClick }>BIG RED BUTTON</button>
         <div>
           <p>Just open up the console and then click the big red button. Code is in the usual
-          spot at <a href = 'https://github.com/thomasoniii/synchronous-saga'>github.</a></p>
+          spot at <a href = 'https://github.com/thomasoniii/synchronous-sagas'>github.</a></p>
           <ul>
             <li>Alfa : { bucket.alfa }</li>
             <li>Bravo : { bucket.bravo }</li>
