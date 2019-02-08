@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/synchronous-sagas/static/js/runtime~main.ad10c30a.js"
   },
   {
-    "revision": "49ff6efab962aa1c5177",
-    "url": "/synchronous-sagas/static/js/main.49ff6efa.chunk.js"
+    "revision": "5218c098980bdeeb8022",
+    "url": "/synchronous-sagas/static/js/main.5218c098.chunk.js"
   },
   {
     "revision": "14431054da205b8df527",
     "url": "/synchronous-sagas/static/js/1.14431054.chunk.js"
   },
   {
-    "revision": "49ff6efab962aa1c5177",
+    "revision": "5218c098980bdeeb8022",
     "url": "/synchronous-sagas/static/css/main.bfb83bdb.chunk.css"
   },
   {
-    "revision": "03b5662e53b99d2c21ff6bad81b2eda2",
+    "revision": "2ce22a0260eb6b6745c0e21dc5e52f43",
     "url": "/synchronous-sagas/index.html"
   }
 ];
