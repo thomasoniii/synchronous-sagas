@@ -1,0 +1,12 @@
+.App {
+  display : grid;
+  width : 600px;
+  grid-template-columns : 1fr 1fr;
+}
+
+.App button {
+  width : 100%;
+  height : 300px;
+  background-color : red;
+  font-size : 150%;
+}
